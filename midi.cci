@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:4F34AE10
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega8.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:7 "tx_buffer -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "send_count -> R4,R5"
+NODE:V LEVEL:0 LINE:10 "tmp -> RAM:????"
+NODE:V LEVEL:0 LINE:11 "first_on -> R7"
+NODE:V LEVEL:0 LINE:12 "cnt -> R6"
+NODE:F LEVEL:0 LINE:15 "usart_tx_isr(void)"
+NODE:F LEVEL:0 LINE:26 "send_key(unsigned char num,unsigned char input)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
